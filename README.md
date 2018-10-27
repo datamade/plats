@@ -1,5 +1,7 @@
 # Federal Township Plats for Cook County
 
+![Confluence of North and South Branch](https://github.com/datamade/plats/blob/master/processed/14-46A.jpg)
+
 About these maps: http://landplats.ilsos.net/ftpofillinois.htm
 
 FOIA: https://www.muckrock.com/foi/illinois-168/federal-township-plat-tiffs-60263/
