@@ -12,3 +12,5 @@ U.S. Survey General Records for Illinois, "Federal Township Plats," Record Serie
 ## Data
 
 The raw data files are MrSID format images in the [/raw directory](raw/). These have been converted to jpeg files in the [/processed directory](processed) using the [mrsidgeodecode program](https://www.extensis.com/support/geoexpress-10).
+
+You can download all these files here: https://github.com/datamade/plats/archive/master.zip
