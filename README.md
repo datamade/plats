@@ -7,7 +7,7 @@ About these maps: http://landplats.ilsos.net/ftpofillinois.htm
 FOIA: https://www.muckrock.com/foi/illinois-168/federal-township-plat-tiffs-60263/
 
 ## Citation
-U.S. Survey General Records for Illinois, "Federal Township Plats," Record Series 953.012, Illinois State Archive. Digital images orginally developed with a Library Serivices and Technology Act grand awardedto the Illinois Staet Archives and administered by the Illinois State Library.
+U.S. Survey General Records for Illinois, "Federal Township Plats," Record Series 953.012, Illinois State Archive. Digital images orginally developed with a Library Serivices and Technology Act grand awarded to the Illinois State Archives and administered by the Illinois State Library.
 
 ## Data
 
